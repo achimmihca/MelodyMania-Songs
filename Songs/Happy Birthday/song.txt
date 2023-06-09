@@ -1,0 +1,102 @@
+﻿#ENCODING:UTF8
+#TITLE:Happy Birthday
+#ARTIST:
+#MP3:Happy_Birthday_to_You.ogg
+#BPM:300
+#GAP:1034
+#COVER:happy-birthday-497131.jpg
+#BACKGROUND:happy-birthday-497131.jpg
+#LANGUAGE:English
+#AUDIOAUTHOR:M. J. Hill, P. S. Hill, matteo.filla on MuseScore
+#AUDIOLICENSE:Public Domain
+#BACKGROUNDAUTHOR:liridons on Pixabay
+#BACKGROUNDLICENSE:Pixabay Content License
+: 0 7 7 Hap
+: 8 1 7 py 
+: 10 9 9 Birth
+: 20 9 7 day 
+: 30 9 12 to 
+: 40 14 11 you
+- 54
+: 60 7 7 hap
+: 68 1 7 py 
+: 70 9 9 birth
+: 80 9 7 day 
+: 90 9 14 to 
+: 100 11 12 you
+- 111
+: 120 7 7 hap
+: 128 1 7 py 
+* 130 9 19 birth
+* 140 9 16 day 
+: 150 5 12 hap
+: 156 3 12 py 
+: 160 9 11 birth
+: 170 9 9 day
+- 179
+: 180 5 17 hap
+: 186 3 17 py 
+: 190 9 16 birth
+: 200 9 12 day 
+: 210 9 14 to 
+: 220 14 12 you
+- 234
+: 240 7 7 hap
+: 248 1 7 py 
+: 250 9 9 birth
+: 260 9 7 day 
+: 270 9 12 to 
+: 280 15 11 you
+- 295
+: 300 7 7 hap
+: 308 1 7 py 
+: 310 9 9 birth
+: 320 9 7 day 
+: 330 9 14 to 
+: 340 14 12 you
+- 354
+: 360 7 7 hap
+: 368 1 7 py 
+* 370 9 19 birth
+* 380 9 16 day 
+: 390 9 12 happy 
+: 400 9 11 birth
+: 410 9 9 day
+- 419
+: 420 9 17 happy 
+: 430 9 16 birth
+: 440 9 12 day 
+: 450 9 14 to 
+: 460 13 12 you
+- 473
+: 480 7 7 hap
+: 488 1 7 py 
+: 490 9 9 birth
+: 500 9 7 day 
+: 510 9 12 to 
+: 520 13 11 you
+- 533
+: 540 7 7 hap
+: 548 1 7 py 
+: 550 9 9 birth
+: 560 9 7 day 
+: 570 9 14 to 
+: 580 13 12 you
+- 593
+: 600 7 7 hap
+: 608 1 7 py 
+* 610 9 19 birth
+* 620 9 16 day 
+: 630 7 12 hap
+: 638 1 12 py 
+: 640 9 11 birth
+: 650 9 9 day
+- 659
+* 660 7 17 hap
+* 668 1 17 py 
+* 670 9 16 birth
+* 680 9 12 day 
+* 690 9 14 to 
+* 700 19 12 you
+- 719
+E

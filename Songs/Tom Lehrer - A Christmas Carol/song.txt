@@ -1,0 +1,277 @@
+﻿#ENCODING:UTF8
+#TITLE:A Christmas Carol
+#ARTIST:Tom Lehrer
+#MP3:Tom Lehrer - A Christmas Carol.ogg
+#VOCALSAUDIO:vocals.ogg
+#INSTRUMENTALAUDIO:instrumental.ogg
+#BPM:212
+#GAP:4896
+#COVER:cover.jpg
+#BACKGROUND:festive-season-7585927.jpg
+#LANGUAGE:English
+#AUDIOLICENSE:Public Domain
+#AUDIOSOURCE:https://tomlehrersongs.com/a-christmas-carol/
+#BACKGROUNDAUTHOR:Placidplace on Pixabay
+#BACKGROUNDLICENSE:Pixabay Content License
+: 2 3 -3 Christ
+: 7 2 -12 mas 
+: 10 3 -7 time 
+: 14 3 -5 is 
+: 18 2 -3 here, 
+: 21 3 0 by 
+: 25 3 -2 gol
+: 29 3 -3 ly,
+- 32
+: 33 2 -5 Dis
+: 36 3 -10 ap
+: 40 3 -8 pro
+: 44 2 -7 val 
+: 47 3 -5 would 
+: 51 3 -8 be 
+: 55 3 -10 fol
+: 59 3 -11 ly,
+- 62
+: 66 3 -7 Deck 
+: 70 3 -5 the 
+: 74 2 -3 halls 
+: 77 3 -2 with 
+: 81 3 -7 hunks 
+: 85 3 0 of 
+: 89 3 -2 holly,
+- 92
+: 93 2 -3 Fill 
+: 96 3 -4 the 
+: 100 2 -3 cup 
+: 103 3 -7 and 
+: 107 3 -5 don't 
+: 111 3 -3 say 
+* 115 7 -5 "when."
+- 122
+: 134 3 -3 Kill 
+: 138 3 -12 the 
+: 142 2 -7 tur
+: 145 3 -5 keys, 
+: 149 3 -3 ducks 
+: 153 3 0 and 
+: 157 1 -2 chick
+: 159 4 -3 ens,
+- 163
+: 167 3 -5 Mix 
+: 171 2 -10 the 
+: 174 3 -8 punch, 
+: 178 3 -7 drag 
+: 182 3 -5 out 
+: 186 2 -8 the 
+: 189 2 -10 dick
+: 192 3 -11 ens,
+- 195
+: 201 3 -7 Even 
+: 205 3 -5 though 
+: 209 1 -3 the 
+: 211 3 -2 pros
+: 216 3 -7 pect 
+: 222 3 0 sick
+: 226 3 -2 ens,
+- 229
+: 231 2 -3 Bro
+: 234 3 -7 ther, 
+* 238 4 -2 here 
+* 244 5 -5 we 
+* 250 4 -7 go 
+* 256 3 -8 a
+* 260 10 -7 gain.
+- 270
+: 287 5 -7 On 
+: 293 2 0 christ
+: 296 3 0 mas 
+: 300 5 0 day 
+: 306 1 2 you 
+: 308 2 0 can't 
+: 311 3 -2 get 
+: 315 5 -2 sore,
+- 320
+: 322 1 -7 Your 
+: 324 3 -2 fel
+: 328 3 -2 low 
+: 332 4 -2 man 
+: 337 1 0 you 
+: 339 3 -2 must 
+: 343 6 -3 adore,
+- 349
+: 351 2 -3 There's 
+: 354 2 -3 time 
+: 357 3 -3 to 
+: 361 3 -3 rob 
+: 365 1 -3 him 
+: 367 3 -3 all 
+: 371 2 -5 the 
+: 374 5 -5 more
+- 379
+: 384 1 -7 The 
+: 386 1 -8 o
+: 388 1 -9 ther 
+: 390 3 -8 three 
+: 394 1 -7 hun
+: 396 2 -8 dred 
+: 400 4 -7 and 
+: 406 5 -5 six
+: 412 5 -3 ty
+* 420 15 -2 -four.
+- 435
+: 446 4 -4 Re
+: 452 3 -3 la
+: 457 3 -12 tions, 
+: 461 3 -7 spa
+: 465 2 -5 ring 
+: 468 2 -3 no 
+: 471 2 0 ex
+: 475 2 -2 pen
+: 479 2 -3 se'll
+- 481
+: 483 3 -5 Send 
+: 487 3 -10 some 
+: 491 3 -8 use
+: 495 2 -7 less 
+: 498 3 -5 old 
+: 502 3 -8 u
+: 506 3 -10 ten
+: 510 3 -11 sil,
+- 513
+: 518 2 -12 Or 
+: 521 2 -7 a 
+: 524 2 -5 matching 
+: 529 1 -3 pen 
+: 532 1 -7 and 
+: 534 2 0 pen
+: 537 3 -2 cil.
+- 540
+: 542 3 -3 "just 
+: 546 2 -4 the 
+: 549 2 -3 thing 
+: 553 1 -5 I 
+: 555 3 -3 need! 
+: 566 2 -5 how 
+: 569 4 -5 nice!"
+- 573
+: 589 3 -3 It 
+: 596 3 -12 doesn't 
+: 601 4 -7 mat
+: 606 3 -5 ter 
+: 610 2 -3 how 
+* 613 4 0 sin
+: 618 2 -2 cere 
+: 621 1 -3 it 
+: 623 2 -5 is
+- 625
+: 628 2 -10 nor 
+: 631 2 -8 how 
+: 635 2 -7 heart
+: 639 2 -5 felt 
+: 643 2 -8 the 
+: 647 2 -10 spi
+: 650 2 -11 rit
+- 652
+: 659 1 -12 Sen
+: 661 2 -7 ti
+: 664 2 -5 ment 
+: 668 2 -3 will 
+: 672 1 -2 not 
+: 674 2 -7 en
+: 677 3 0 dear 
+: 681 3 -2 it,
+- 684
+: 686 3 -3 What's 
+: 690 3 -7 im
+: 694 3 -2 por
+: 698 3 -5 tant 
+: 702 4 -7 is 
+: 711 3 -8 the 
+: 715 7 -7 price.
+- 722
+: 740 4 -12 Hark 
+: 748 4 -7 the 
+: 754 7 -7 her
+: 768 5 -7 ald 
+: 775 2 -3 tri
+: 778 5 -3 bune 
+: 786 6 -3 sings
+: 794 5 -5 ~
+- 799
+* 811 4 0 Ad
+* 816 4 0 ver
+* 821 7 0 ti
+: 829 2 -2 sing 
+: 835 4 -3 won
+: 840 4 -5 drous 
+: 846 7 -3 things.
+- 853
+: 868 3 -10 God 
+: 872 3 -10 rest 
+: 876 2 -3 ye 
+: 879 2 -3 mer
+: 882 2 -5 ry, 
+: 885 2 -7 mer
+: 888 3 -8 chants, 
+: 892 2 -10 may 
+: 895 2 -12 you 
+: 898 2 -10 make 
+: 901 2 -8 the 
+: 904 3 -7 yule
+: 909 3 -5 tide 
+: 915 13 -3 pay.
+- 928
+: 970 5 -3 An
+: 978 4 -3 gels 
+: 987 4 -3 we 
+* 997 4 0 have 
+* 1002 7 0 heard 
+: 1012 2 -2 on 
+: 1018 6 -3 high
+- 1024
+: 1031 5 -3 Tell 
+: 1038 5 -5 us 
+: 1046 4 -3 to 
+: 1051 5 0 go 
+: 1058 7 -3 out 
+: 1068 2 -5 and 
+: 1073 6 -7 buy!
+- 1079
+: 1124 1 -3 Let 
+: 1126 2 -12 the 
+: 1129 2 -7 rau
+: 1133 2 -5 cous 
+: 1136 2 -3 sleigh 
+: 1139 3 0 bells 
+: 1144 2 -2 jin
+: 1147 2 -3 gle,
+- 1149
+: 1152 1 -5 Hail 
+: 1154 2 -10 our 
+: 1158 2 -8 dear 
+: 1162 2 -7 old 
+: 1166 4 -5 friend 
+: 1171 2 -8 kris 
+: 1174 3 -10 krin
+: 1178 2 -8 gle,
+- 1180
+: 1186 2 -7 Dri
+: 1190 1 -8 ving 
+: 1192 1 -7 his 
+: 1195 2 -5 rein
+: 1199 1 -7 deer 
+: 1202 1 -5 a
+: 1205 3 -3 cross 
+: 1211 2 -6 the
+: 1215 2 -10 ~ 
+* 1220 6 -2 sky.
+- 1226
+: 1240 3 0 Don't 
+: 1244 2 2 stand 
+: 1249 2 -2 under
+: 1252 2 -2 neath 
+: 1259 2 -2 when 
+: 1262 3 -3 they 
+* 1270 6 -5 fly 
+* 1281 7 -7 by.
+- 1288
+E

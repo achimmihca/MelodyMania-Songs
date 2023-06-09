@@ -1,0 +1,432 @@
+﻿#ENCODING:UTF8
+#TITLE:Kick Back
+#ARTIST:Mahogany Marie
+#MP3:Mahogany Marie - Kick Back.ogg
+#VOCALSAUDIO:vocals.ogg
+#INSTRUMENTALAUDIO:instrumental.ogg
+#BPM:170
+#COVER:cover.jpg
+#BACKGROUND:background.jpg
+#VIDEO:video.webm
+#LANGUAGE:English
+#AUDIOAUTHOR:Mahogany Marie
+#AUDIOLICENSE:https://creativecommons.org/licenses/by/4.0/
+#AUDIOSOURCE:https://freemusicarchive.org/music/Mahogany_Marie/Kick_Back/Kick_Back/
+#VIDEOSOURCE:Mahogany Marie on YouTube, https://youtu.be/tEOZjZZmlAI
+#VIDEOLICENSE:https://creativecommons.org/licenses/by-sa/4.0/
+: 28 2 4 I 
+: 30 1 4 tell 
+: 32 1 4 my 
+: 33 1 6 wor
+: 35 1 6 ries 
+: 37 1 6 let's 
+: 39 1 4 get 
+: 42 1 6 set
+: 44 2 9 tled 
+: 47 3 6 ba
+: 53 3 4 by
+- 56
+: 64 2 11 May
+: 66 2 9 be 
+: 68 1 9 if 
+: 71 1 4 you 
+: 73 2 6 want 
+: 78 3 2 to
+- 81
+: 86 2 -1 Cause 
+: 93 2 9 you're 
+: 97 1 9 safe 
+: 99 1 9 with 
+: 103 3 2 me
+- 106
+: 110 3 -1 So 
+: 124 2 9 just 
+: 129 2 9 stay 
+: 132 1 6 with 
+: 136 3 2 me
+- 139
+: 157 2 6 Every 
+: 161 1 6 day 
+: 163 1 6 is 
+: 165 1 6 like 
+: 167 1 3 a 
+: 169 2 6 ho
+: 172 2 7 li
+: 176 2 6 day
+: 179 2 4 ~
+- 181
+: 191 1 9 Sle
+: 192 1 11 ep 
+: 194 1 9 in, 
+: 196 1 7 if 
+: 198 1 4 you 
+: 201 2 6 want 
+: 205 2 9 sit
+- 207
+: 214 3 11 Re
+: 220 2 2 lax, 
+: 229 3 -1 un
+: 237 2 9 wind, 
+: 245 2 7 and 
+: 253 2 2 kick 
+: 261 2 2 back
+- 263
+F 263 3 -4 It's 
+F 267 2 -4 so 
+F 270 3 -4 bro
+F 274 8 -4 ken 
+: 292 2 -6 yet 
+: 297 2 1 I 
+* 301 6 2 no
+* 310 6 -1 ticed
+- 316
+: 325 2 -8 In 
+: 330 2 2 the 
+: 334 5 1 weight 
+: 344 2 1 of 
+: 347 2 2 the 
+: 350 3 1 worlds 
+: 357 3 -1 that 
+: 361 2 -1 you're 
+* 366 4 2 hope
+* 375 4 4 less
+- 379
+: 388 4 2 No
+: 393 2 2 thing's 
+: 398 5 1 great
+: 405 6 -1 er, 
+: 419 2 1 no
+: 424 2 1 thing's 
+: 430 4 2 bet
+: 439 7 -1 ter
+- 446
+: 452 2 -7 And 
+: 457 2 2 just 
+: 462 3 1 sit 
+: 469 2 -7 and 
+: 474 2 2 you 
+: 478 3 1 wait 
+: 485 2 0 to 
+: 489 2 0 come 
+: 494 6 2 home
+- 500
+: 516 3 5 You 
+: 521 2 6 got 
+: 528 2 6 the 
+: 531 3 4 fight 
+: 535 2 4 in 
+: 538 1 4 your 
+: 542 4 6 hands
+- 546
+: 549 2 4 With 
+: 552 1 4 the 
+* 558 4 4 worlds 
+: 565 2 6 to 
+: 569 2 4 de
+: 574 5 6 mand
+- 579
+* 583 3 6 Things 
+: 592 3 4 stack 
+: 597 2 6 in 
+: 599 2 4 the 
+: 605 4 6 pub
+- 609
+: 615 2 4 But 
+: 618 1 4 the 
+: 622 3 6 feel 
+: 629 2 6 her 
+: 634 2 6 would 
+: 637 6 6 lack
+- 643
+: 670 1 6 No 
+: 672 1 4 more 
+: 674 1 6 wor
+: 676 1 4 ries 
+: 678 1 6 let's 
+: 680 1 4 get 
+: 682 2 6 set
+: 684 3 9 tled 
+: 689 4 7 ba
+: 694 3 4 by
+- 697
+: 703 2 11 May
+: 707 2 9 be 
+: 711 1 6 if 
+: 713 1 4 you 
+: 714 1 6 want 
+: 718 3 2 to
+- 721
+: 725 2 2 Cause 
+* 734 2 9 you're 
+* 737 2 9 safe 
+* 740 2 6 with 
+* 743 2 1 me
+- 745
+: 749 3 -1 So 
+* 766 2 9 just 
+* 769 2 9 stay 
+* 772 2 6 with 
+* 775 2 2 me
+- 777
+: 798 2 6 Every 
+: 801 1 6 day 
+: 803 1 6 is 
+: 805 1 6 like 
+: 807 1 6 a 
+: 809 1 6 ho
+: 811 1 6 li
+: 813 3 6 stay
+- 816
+: 832 1 12 Sleep 
+: 834 1 9 in, 
+: 837 1 6 if 
+: 839 1 4 you 
+: 841 1 6 want 
+: 845 3 9 sit
+- 848
+: 855 3 11 Re
+: 860 5 2 lax, 
+: 869 3 -1 un
+: 877 3 9 wind, 
+: 885 3 7 and 
+: 893 3 2 kick 
+: 901 2 4 back
+- 903
+F 903 1 4 Kick 
+F 906 2 4 back 
+F 911 3 6 ba
+F 917 3 9 by
+- 920
+: 933 2 2 Kick 
+: 937 2 2 back 
+: 941 3 2 ba
+: 950 4 6 by
+- 954
+: 966 2 9 Kick 
+: 969 3 9 back 
+* 974 4 11 ba
+* 981 5 7 by~
+* 989 4 4 ~
+* 998 5 -1 ~
+* 1008 6 -5 ~
+- 1014
+: 1029 2 6 Kick 
+: 1034 1 6 back 
+: 1038 5 6 ba
+: 1045 4 9 by
+- 1049
+: 1061 2 4 Kick 
+: 1065 2 4 back 
+: 1071 4 4 ba
+: 1077 4 7 by
+- 1081
+: 1093 2 9 Kick 
+: 1097 2 9 back 
+: 1102 4 11 ba
+: 1109 4 7 by~
+: 1117 3 4 ~
+: 1125 4 -1 ~
+: 1135 5 9 ~
+- 1140
+: 1169 2 8 Some
+: 1172 2 6 thing 
+: 1175 1 4 a
+: 1176 3 4 bout 
+* 1180 6 6 you
+- 1186
+: 1193 2 9 makes 
+: 1197 2 9 me 
+* 1202 2 6 feel
+* 1205 2 4 ~ 
+: 1210 2 3 this 
+: 1213 5 4 way
+- 1218
+: 1233 2 4 Some
+: 1235 2 4 thing 
+: 1238 1 5 a
+: 1239 3 4 bout 
+: 1244 4 1 you
+: 1249 2 -1 ~
+- 1251
+: 1258 1 9 makes 
+: 1261 2 9 me 
+: 1266 2 4 want 
+: 1269 3 4 you 
+: 1276 1 4 I 
+: 1277 1 4 want 
+: 1281 3 4 you 
+: 1285 2 10 so 
+: 1288 5 10 bad~
+- 1293
+: 1297 1 6 Some
+: 1299 1 6 thing 
+: 1301 1 6 a
+: 1303 3 4 bout 
+: 1307 4 6 you
+: 1312 2 4 ~
+- 1314
+: 1320 3 9 makes 
+: 1325 1 9 me 
+: 1329 4 6 feel 
+: 1337 3 4 this 
+: 1342 7 6 way
+- 1349
+: 1360 2 4 Some
+: 1363 1 4 thing 
+: 1365 1 4 a
+: 1367 3 4 bout 
+: 1373 6 0 you
+- 1379
+: 1384 2 9 makes 
+: 1388 2 9 me 
+: 1392 2 4 want 
+: 1396 4 4 you
+- 1400
+: 1404 2 4 want 
+: 1407 3 4 you 
+: 1413 1 4 so 
+: 1417 4 -1 bad 
+: 1424 3 2 ba
+: 1428 3 2 by
+: 1433 3 -1 ~
+- 1436
+: 1438 1 4 No 
+: 1440 1 4 more 
+: 1442 1 6 wor
+: 1444 1 6 ries 
+: 1446 1 6 let's 
+: 1448 1 6 get 
+: 1450 1 6 set
+: 1452 1 9 tled 
+: 1456 2 7 ba
+: 1459 5 6 by
+- 1464
+: 1471 2 11 May 
+: 1475 1 9 be 
+: 1477 1 6 if 
+: 1479 1 4 you 
+: 1482 2 6 want 
+: 1486 4 2 to
+- 1490
+: 1493 3 -1 Cause 
+: 1502 1 11 you're 
+: 1505 2 14 safe 
+: 1509 1 14 with 
+: 1513 3 11 me
+- 1516
+: 1518 3 11 So 
+: 1533 3 9 just 
+: 1537 3 9 stay 
+: 1541 1 6 with 
+: 1543 4 2 me
+- 1547
+: 1566 1 1 Ev
+: 1568 1 1 ery 
+: 1570 1 1 day 
+: 1572 1 2 is 
+: 1574 1 4 like 
+: 1575 1 4 a 
+: 1577 1 6 kind 
+: 1579 1 6 of 
+: 1581 4 6 stay
+- 1585
+: 1599 2 11 Sleep 
+: 1602 1 9 in 
+: 1604 1 6 if 
+: 1606 2 4 you 
+: 1609 2 6 want 
+: 1612 3 6 sit
+- 1615
+* 1622 3 11 Re
+* 1628 4 2 lax, 
+: 1637 3 2 un
+: 1645 4 9 wind, 
+: 1653 4 7 and 
+: 1661 5 2 kick 
+: 1668 3 4 back
+- 1671
+F 1671 1 1 Kick 
+F 1674 2 1 back 
+F 1679 4 7 ba
+F 1685 5 9 by
+- 1690
+R 1700 2 3 Kick 
+R 1704 3 3 back 
+R 1711 5 4 ba
+R 1717 4 6 by
+- 1721
+R 1732 2 9 Kick 
+R 1736 2 9 back 
+R 1742 5 11 ba
+R 1749 5 7 by~
+R 1757 5 4 ~
+R 1765 3 -1 ~
+R 1771 4 -2 ~
+- 1775
+R 1796 2 9 Kick 
+R 1800 2 9 back 
+R 1806 5 6 ba
+R 1812 4 9 by
+- 1816
+R 1828 2 2 Kick 
+R 1832 2 2 back 
+R 1838 5 4 ba
+R 1845 5 7 by
+- 1850
+R 1860 2 9 Kick 
+R 1864 3 9 back 
+R 1869 4 11 ba
+R 1877 4 7 by~
+R 1884 4 4 ~
+R 1892 4 -1 ~
+R 1900 8 9 ~
+- 1908
+G 1940 7 14 Oooh
+- 1947
+R 1981 2 11 Could 
+R 1985 1 13 you 
+R 1987 3 13 stay 
+R 1991 1 16 for 
+R 1994 2 11 me
+- 1996
+R 2012 2 7 Would 
+R 2015 1 11 you 
+R 2017 2 14 stay 
+R 2020 2 13 with 
+R 2023 2 11 me
+- 2025
+R 2093 4 14 Sit, 
+R 2100 4 14 re
+R 2108 7 14 lax
+- 2115
+R 2205 1 6 No 
+R 2208 1 4 more 
+R 2210 1 6 wor
+R 2212 1 6 ries 
+R 2215 1 6 let's 
+R 2217 1 6 get 
+R 2219 1 7 set
+R 2221 2 9 tled 
+R 2224 3 6 ba
+R 2229 4 4 by
+- 2233
+R 2239 3 11 May 
+R 2243 1 9 be 
+R 2245 1 4 if 
+R 2247 1 4 you 
+R 2250 1 4 want 
+R 2254 7 2 to 
+- 2261
+R 2262 3 2 Cause 
+R 2270 1 2 You're 
+R 2273 1 9 safe 
+R 2278 1 1 with 
+R 2280 3 1 me 
+- 2283
+R 2286 4 -1 So 
+R 2300 2 -1 just 
+R 2305 1 1 stay 
+R 2309 1 -1 with 
+R 2311 3 2 me
+- 2314
+E

@@ -1,0 +1,233 @@
+﻿#ENCODING:UTF8
+#TITLE:Frère Jacques
+#MP3:frere_jacques.ogg
+#BPM:300
+#GAP:979
+#COVER:bells-1636686.jpg
+#BACKGROUND:bells-1636686.jpg
+#LANGUAGE:French
+#AUDIOAUTHOR:thierryfleurette on MuseScore
+#AUDIOLICENSE:Public Domain
+#BACKGROUNDAUTHOR:Efraimstochter on Pixabay
+#BACKGROUNDLICENSE:Pixabay Content License
+#_P1:First Vocals
+#_P2:Second Vocals
+P1
+: 0 8 2 Frèr
+: 10 8 4 e 
+: 20 8 6 Jac
+: 30 8 2 ques, 
+: 40 8 2 Frèr
+: 50 8 4 e 
+: 60 8 6 Jac
+: 70 8 2 ques
+- 78
+: 80 8 6 Dor
+: 90 8 7 mez 
+* 100 18 9 vous, 
+: 120 8 6 dor
+: 130 8 7 mez 
+* 140 18 9 vous
+- 158
+: 160 5 9 Son
+: 166 3 11 nez 
+: 170 3 9 les 
+: 175 3 7 mar
+: 180 8 6 tin
+: 190 8 2 es 
+: 200 5 9 son
+: 206 3 11 nez 
+: 210 3 9 les 
+: 215 3 7 mar
+: 220 8 6 tin
+: 230 8 2 es
+- 238
+: 240 8 2 Bim 
+: 250 8 -3 bam 
+: 260 18 2 bom 
+: 280 8 2 bim 
+: 290 8 -3 bam 
+: 300 18 2 bom
+- 318
+: 322 8 2 Frèr
+: 332 8 4 e 
+: 342 8 6 Jac
+: 352 8 2 ques, 
+: 362 8 2 Frèr
+: 372 8 4 e 
+: 382 8 6 Jac
+: 392 8 2 ques
+- 400
+: 402 8 6 Dor
+: 412 8 7 mez 
+* 422 18 9 vous, 
+: 442 8 6 dor
+: 452 8 7 mez 
+* 462 18 9 vous
+- 480
+: 482 5 9 Son
+: 488 3 11 nez 
+: 492 3 9 les 
+: 497 3 7 mar
+: 502 8 6 tin
+: 512 8 2 es 
+: 522 5 9 son
+: 528 3 11 nez 
+: 532 3 9 les 
+: 537 3 7 mar
+: 542 8 6 tin
+: 552 8 2 es 
+- 560
+: 562 8 2 Bim 
+: 572 8 -3 bam 
+: 582 18 2 bom 
+: 602 8 2 bim 
+: 612 8 -3 bam 
+: 622 18 2 bom
+- 640
+: 642 8 2 Frèr
+: 652 8 4 e 
+: 662 8 6 Jac
+: 672 8 2 ques, 
+: 682 8 2 Frèr
+: 692 8 4 e 
+: 702 8 6 Jac
+: 712 8 2 ques
+- 720
+: 722 8 6 Dor
+: 732 8 7 mez 
+: 742 18 9 vous, 
+: 762 8 6 dor
+: 772 8 7 mez 
+: 782 18 9 vous
+- 800
+: 802 5 9 Son
+: 808 3 11 nez 
+: 812 3 9 les 
+: 817 3 7 mar
+: 822 8 6 tin
+: 832 8 2 es 
+: 842 5 9 son
+: 848 3 11 nez 
+: 852 3 9 les 
+: 857 3 7 mar
+: 862 8 6 tin
+: 872 8 2 es 
+- 880
+: 882 8 2 Bim 
+: 892 8 -3 bam 
+: 902 18 2 bom 
+* 922 8 2 bim 
+* 932 8 -3 bam 
+* 942 18 2 bom
+- 960
+P2
+: 82 8 2 Frèr
+: 92 8 4 e 
+: 102 8 6 Jac
+: 112 8 2 ques, 
+: 122 8 2 Frèr
+: 132 8 4 e 
+: 142 8 6 Jac
+: 152 8 2 ques
+- 160
+: 162 8 6 Dor
+: 172 8 7 mez 
+* 182 18 9 vous, 
+: 202 8 6 dor
+: 212 8 7 mez 
+* 222 18 9 vous
+- 240
+: 242 5 9 Son
+: 249 1 11 nez 
+: 252 3 9 les 
+: 257 3 7 mar
+: 262 8 6 tin
+: 272 8 2 es 
+: 282 5 9 son
+: 289 1 11 nez 
+: 292 3 9 les 
+: 297 3 7 mar
+: 302 8 6 tin
+: 312 8 2 es
+- 320
+: 322 8 2 Bim 
+: 332 8 -3 bam 
+: 342 18 2 bom 
+: 362 8 2 bim 
+: 372 8 -3 bam 
+: 382 18 2 bom
+- 400
+: 404 8 2 Frèr
+: 414 8 4 e 
+: 424 8 6 Jac
+: 434 8 2 ques, 
+: 444 8 2 Frèr
+: 454 8 4 e 
+: 464 8 6 Jac
+: 474 8 2 ques
+- 482
+: 484 8 6 Dor
+: 494 8 7 mez 
+* 504 18 9 vous, 
+: 524 8 6 dor
+: 534 8 7 mez 
+* 544 18 9 vous
+- 562
+: 564 5 9 Son
+: 571 1 11 nez 
+: 574 3 9 les 
+: 579 3 7 mar
+: 584 8 6 tin
+: 594 8 2 es 
+: 604 5 9 son
+: 611 1 11 nez 
+: 614 3 9 les 
+: 619 3 7 mar
+: 624 8 6 tin
+: 634 8 2 es 
+- 642
+: 644 8 2 Bim 
+: 654 8 -3 bam 
+: 664 18 2 bom 
+: 684 8 2 bim 
+: 694 8 -3 bam 
+: 704 18 2 bom
+- 722
+: 723 8 2 Frèr
+: 733 8 4 e 
+: 743 8 6 Jac
+: 753 8 2 ques, 
+: 763 8 2 Frèr
+: 773 8 4 e 
+: 783 8 6 Jac
+: 793 8 2 ques
+- 801
+: 803 8 6 Dor
+: 813 8 7 mez 
+: 823 18 9 vous, 
+: 843 8 6 dor
+: 853 8 7 mez 
+: 863 18 9 vous
+- 881
+: 883 5 9 Son
+: 890 1 11 nez 
+: 893 3 9 les 
+: 898 3 7 mar
+: 903 8 6 tin
+: 913 8 2 es 
+: 923 5 9 son
+: 930 1 11 nez 
+: 933 3 9 les 
+: 938 3 7 mar
+: 943 8 6 tin
+: 953 8 2 es 
+- 961
+* 963 8 2 Bim 
+* 973 8 -3 bam 
+* 983 18 2 bom 
+: 1003 8 2 bim 
+: 1013 8 -3 bam 
+: 1023 18 2 bom
+- 1041
+E

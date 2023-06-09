@@ -1,0 +1,408 @@
+﻿#ENCODING:UTF8
+#TITLE:To Be an Animal
+#ARTIST:HoliznaCC0
+#MP3:HoliznaCC0 - To Be an Animal.ogg
+#VOCALSAUDIO:vocals.ogg
+#INSTRUMENTALAUDIO:instrumental.ogg
+#BPM:241
+#COVER:cover.jpg
+#BACKGROUND:background.jpg
+#LANGUAGE:English
+#AUDIOAUTHOR:HoliznaCC0 on Free Music Archive
+#AUDIOLICENSE:Public Domain
+#AUDIOSOURCE:https://freemusicarchive.org/music/holiznacc0/will-you-miss-me/to-be-an-animal/
+: 15 3 -3 I'm 
+: 19 3 1 a 
+: 27 5 4 fish, 
+: 35 3 2 to 
+* 43 7 6 drink 
+: 52 3 2 is 
+: 57 2 1 to 
+: 60 7 1 breath
+- 67
+: 76 2 -1 I'm 
+: 79 2 -1 your 
+: 83 5 -1 pet 
+: 90 7 -1 dog, 
+: 99 2 1 if 
+: 103 4 -1 I'm 
+: 108 2 1 chance 
+: 115 3 1 I 
+: 119 2 -1 would 
+: 122 6 -1 leave
+- 128
+: 139 2 -4 You 
+: 142 4 -3 find 
+: 147 4 -6 me 
+: 152 2 -6 at 
+: 155 1 -6 the 
+: 159 14 -6 neighbors
+- 173
+: 178 2 -5 pick
+: 180 3 -6 ing 
+: 185 4 -6 through 
+: 193 5 -8 their 
+: 203 5 -12 trash
+- 208
+: 270 3 -2 I'm 
+: 275 4 2 a 
+: 284 6 1 bird, 
+: 291 2 2 al
+: 294 3 4 ways 
+* 300 3 6 sing
+* 304 3 4 ing 
+* 310 3 5 a 
+* 314 8 -1 song
+- 322
+: 336 3 -1 I'm 
+: 340 3 -1 a 
+: 346 3 -1 rat, 
+: 354 5 1 for 
+: 360 4 -1 my 
+: 367 5 -1 tail 
+: 372 4 1 is 
+: 378 8 -1 long
+- 386
+: 393 2 -3 I 
+: 398 2 -2 tell 
+: 401 3 -3 you 
+: 405 3 -3 the 
+: 409 3 -5 whole 
+: 414 8 -7 story
+- 422
+: 428 3 -4 But 
+: 431 5 -2 you 
+: 437 7 0 just 
+: 445 3 0 skip 
+: 449 6 0 on 
+: 456 2 -2 and 
+: 459 6 -3 laugh
+- 465
+: 514 2 -3 They 
+: 517 2 -3 say 
+* 524 6 -2 nothing 
+* 532 5 -3 makes 
+* 541 6 -6 sense
+- 547
+: 550 5 0 but 
+* 556 6 1 every
+* 563 6 1 thing 
+* 571 9 1 does 
+: 582 7 -3 some
+: 591 8 -3 how
+- 599
+: 641 4 -2 Well 
+: 647 2 -2 I 
+: 651 3 -2 used 
+: 656 3 0 to 
+: 660 3 -2 give 
+: 665 2 -2 a 
+: 668 8 -5 damn
+- 676
+: 679 4 0 but 
+: 684 4 1 it's 
+: 690 4 1 all 
+: 696 3 5 o
+: 704 5 -4 ver 
+: 714 4 0 now
+: 719 5 -3 ~
+- 724
+: 842 5 -2 I'm 
+: 848 3 2 a 
+* 855 6 4 mole, 
+: 861 4 0 pre
+: 865 4 1 ten
+: 869 4 2 ding 
+: 874 5 6 this 
+: 879 4 4 hill's 
+: 884 2 1 a 
+: 887 8 1 moun
+: 896 3 0 tain
+- 899
+: 909 3 -1 I'm 
+: 913 2 -1 a 
+: 919 5 -1 bull
+: 925 8 -1 frog, 
+: 934 2 0 liv
+: 937 2 -1 ing 
+: 939 2 1 in 
+: 941 2 -1 a 
+: 945 7 1 public 
+: 953 3 -1 foun
+: 957 4 -2 tain
+- 961
+: 966 2 -4 Been 
+: 968 2 -5 a
+: 971 3 -3 way 
+: 975 2 -6 from 
+: 977 1 -8 the 
+: 980 6 -12 pond 
+: 990 1 -7 so 
+: 992 4 -8 long,
+- 996
+: 999 2 -5 I 
+* 1003 7 -3 learned 
+: 1012 2 0 to 
+* 1016 6 -1 pretend 
+: 1023 4 -5 it's 
+: 1028 3 -3 the 
+: 1032 4 -3 same
+- 1036
+: 1099 2 -3 I'm 
+: 1104 3 1 a 
+: 1111 4 3 bat, 
+: 1118 2 0 I 
+: 1122 3 4 don't 
+: 1128 5 6 see 
+: 1135 4 4 out 
+: 1143 6 0 here
+- 1149
+: 1161 3 -2 I'm 
+: 1165 1 -3 a 
+: 1168 5 -3 prairie 
+: 1177 9 -1 dog, 
+: 1194 3 1 liv
+: 1197 4 -1 ing 
+: 1202 2 1 in 
+: 1207 4 -1 fear
+: 1213 2 -5 ~
+- 1215
+* 1223 4 -3 Al
+* 1229 4 -6 ways 
+: 1235 2 -6 on 
+: 1239 2 -8 a
+: 1241 4 -8 lert
+- 1245
+: 1249 3 1 trying 
+: 1255 1 -8 to 
+: 1259 6 -3 learn 
+: 1269 6 -9 my 
+: 1276 2 -8 ene
+: 1278 4 -6 my's 
+: 1286 7 -12 name
+- 1293
+: 1340 6 -3 They 
+: 1347 7 -3 say 
+: 1357 3 0 noth
+: 1360 2 -2 ing 
+: 1362 4 -4 makes 
+: 1369 6 -6 sense
+- 1375
+: 1377 4 4 but 
+: 1383 7 1 every
+: 1393 7 1 thing 
+: 1402 5 0 does 
+: 1410 6 -3 some
+: 1418 6 -3 how
+- 1424
+: 1470 5 -3 Well 
+: 1476 3 -3 I 
+: 1480 3 -3 used 
+: 1485 1 0 to 
+: 1490 3 5 give 
+: 1494 1 -6 a 
+: 1497 5 -6 damn
+- 1502
+: 1510 2 1 but 
+* 1515 3 1 it's 
+* 1519 4 1 all 
+* 1526 3 3 o
+* 1533 4 -3 ver 
+: 1542 6 1 now
+: 1549 4 -3 ~
+- 1553
+: 1672 3 -1 I'm 
+: 1676 2 1 a 
+: 1682 11 4 chameleon, 
+: 1704 3 6 a 
+: 1708 5 6 trick 
+: 1714 4 1 fore
+: 1720 4 -2 saw
+- 1724
+: 1738 3 0 I'm 
+: 1742 3 -1 a 
+: 1748 4 -1 church 
+: 1755 5 -1 mouse, 
+: 1764 2 -1 as 
+: 1768 3 1 qui
+: 1772 2 -1 et 
+: 1774 3 1 as 
+: 1780 5 -1 god
+- 1785
+: 1794 1 -3 In 
+: 1796 1 -3 a 
+* 1798 8 -3 long 
+: 1808 2 -7 win
+: 1810 3 -8 ter 
+: 1816 4 -7 month
+- 1820
+: 1823 2 -7 Just 
+: 1828 2 -7 to 
+: 1834 5 -2 waiting 
+: 1840 2 -5 for 
+: 1842 1 -5 the 
+: 1848 7 -8 spring 
+: 1857 2 -8 to 
+: 1860 5 -8 break
+- 1865
+: 1927 3 -3 I'm 
+: 1933 3 1 an 
+* 1939 3 3 ant, 
+: 1946 2 1 my 
+: 1950 5 1 burden 
+: 1956 3 3 is 
+* 1962 5 5 twice 
+: 1970 3 1 my 
+: 1975 5 1 weight
+- 1980
+: 1991 2 -1 I'm 
+: 1994 1 -1 a 
+: 1997 3 -1 hy
+: 2003 6 0 ena, 
+: 2021 4 1 laugh
+: 2025 4 0 ing 
+: 2029 2 1 at 
+: 2035 5 -1 fate
+- 2040
+: 2047 4 -4 Though 
+: 2051 2 -3 I 
+: 2054 3 -3 know 
+: 2058 3 -6 I 
+: 2064 5 -6 can't 
+: 2071 5 -7 change 
+: 2077 2 -6 it 
+: 2081 3 -8 or 
+: 2088 4 -3 keep 
+* 2096 6 1 what 
+: 2102 2 0 it 
+: 2105 6 -1 may 
+: 2115 5 -3 take
+- 2120
+: 2170 4 -3 They 
+: 2175 4 -3 say 
+: 2181 4 -3 noth
+: 2185 3 -1 ing 
+: 2189 5 -3 makes 
+: 2198 6 -6 sense
+- 2204
+: 2208 3 2 but 
+* 2214 5 2 every
+: 2222 4 0 thing 
+: 2232 4 -3 does 
+: 2239 4 -3 some
+: 2247 8 -3 how
+- 2255
+: 2298 2 -4 You 
+: 2301 3 -4 know 
+: 2306 2 -4 I 
+: 2310 2 -4 used 
+: 2314 2 -1 to 
+: 2317 2 -3 give 
+: 2321 1 -3 a 
+: 2324 6 -6 damn
+- 2330
+: 2339 2 1 but 
+: 2344 3 1 it's 
+: 2348 3 1 all 
+* 2357 4 5 o
+* 2362 5 -3 ver 
+: 2372 4 0 now
+: 2378 4 -3 ~
+- 2382
+: 2501 3 1 I'm 
+: 2506 2 1 a 
+* 2513 5 4 fox, 
+: 2522 3 1 my 
+* 2530 4 7 wit 
+: 2535 4 3 is 
+* 2547 6 0 fast
+- 2553
+: 2563 3 -2 I'm 
+: 2567 2 -2 a 
+* 2570 6 -1 rac
+* 2577 7 -1 coon, 
+: 2585 2 1 al
+: 2588 4 -1 ways 
+: 2593 4 1 wear
+: 2598 2 -1 ing 
+: 2601 2 1 a 
+: 2608 9 -1 mask
+- 2617
+: 2626 5 -3 Yes 
+: 2632 4 -6 I 
+: 2637 2 -6 am 
+: 2641 1 -6 a 
+: 2644 4 -8 thieve
+- 2648
+: 2651 2 -8 But 
+: 2653 1 -8 I 
+: 2656 4 -1 will 
+: 2661 7 0 rob 
+: 2669 2 1 you 
+: 2672 2 1 of 
+* 2675 4 1 nothing 
+: 2684 4 -3 but 
+: 2689 6 -3 time
+- 2695
+: 2756 4 -1 I'm 
+: 2760 5 2 an 
+: 2768 7 1 owl, 
+: 2784 3 6 hoot
+: 2788 3 5 ing 
+: 2792 4 4 at 
+: 2797 3 2 the 
+: 2801 7 1 night
+- 2808
+: 2812 2 -2 I'm 
+: 2815 2 -4 a 
+* 2820 4 -1 chim
+* 2825 4 -1 pan
+* 2832 4 -1 zee, 
+: 2848 3 1 stand
+: 2852 2 -1 ing 
+: 2856 4 0 up
+: 2863 5 -1 right
+- 2868
+: 2881 5 -3 All 
+: 2887 3 -6 that 
+: 2890 2 -6 I 
+: 2894 1 -7 have 
+: 2898 7 -8 learned 
+: 2908 1 -6 is 
+: 2912 4 -5 that 
+: 2920 4 -6 pro
+: 2926 6 -8 gression 
+: 2935 5 -7 is 
+: 2943 7 -12 blind
+- 2950
+: 2999 3 -4 They 
+: 3003 1 -4 say 
+: 3010 2 -4 noth
+: 3014 3 -1 ing 
+: 3018 4 -6 makes 
+: 3024 7 -6 sense
+- 3031
+: 3035 3 4 but 
+: 3041 7 1 every
+: 3052 6 1 thing 
+: 3062 4 -3 does 
+* 3067 6 -3 some
+* 3075 7 -3 how
+- 3082
+: 3126 3 -3 You 
+: 3130 3 -3 know 
+: 3134 3 -3 I 
+: 3138 3 -1 used 
+: 3142 3 -1 to 
+: 3146 3 -4 give 
+: 3150 2 -6 a 
+: 3155 7 -7 damn
+- 3162
+: 3170 2 0 but 
+: 3175 2 1 it's 
+: 3178 4 1 all 
+: 3185 5 5 o
+: 3190 4 -3 ver 
+R 3199 13 1 now
+- 3212
+E

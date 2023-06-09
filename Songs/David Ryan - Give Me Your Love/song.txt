@@ -1,0 +1,299 @@
+﻿#ENCODING:UTF8
+#TITLE:Give Me Your Love
+#ARTIST:David Ryan
+#MP3:David Ryan - Give Me Your Love.ogg
+#VOCALSAUDIO:vocals.ogg
+#INSTRUMENTALAUDIO:instrumental.ogg
+#BPM:280
+#COVER:cover.jpg
+#BACKGROUND:background.jpg
+#LANGUAGE:English
+#AUDIOAUTHOR:David Ryan  on Free Music Archive
+#AUDIOLICENSE:https://creativecommons.org/licenses/by/4.0/
+#AUDIOSOURCE:https://freemusicarchive.org/music/David_Ryan/Give_Me_Your_Love/Give_Me_Your_Love/
+#BACKGROUNDAUTHOR:Monsterkoi on Pixabay
+#BACKGROUNDLICENSE:Pixabay Content License
+: 39 3 -6 Sea
+: 42 7 -5 sons 
+: 52 4 -1 chan
+: 56 5 -3 ged 
+: 71 6 -3 quickly 
+: 78 3 -3 as 
+: 82 2 -3 they 
+: 91 15 -6 appear~
+- 106
+: 161 5 -6 Air 
+: 167 3 -1 gets 
+: 173 11 -3 crisp
+: 187 7 -3 this 
+: 195 7 -6 time 
+: 204 4 -3 of 
+: 210 5 -6 year
+: 215 2 -8 ~
+- 217
+: 290 3 -6 As 
+: 294 2 -6 the 
+: 297 7 -6 summer 
+: 306 3 -2 mo
+: 309 6 -1 ves 
+: 316 5 -3 on
+- 321
+: 323 1 -3 the 
+: 326 3 -3 dream
+: 330 6 -6 mers 
+: 339 8 -1 love 
+: 356 5 -1 has 
+: 363 4 -3 to 
+: 371 6 -3 wait
+: 380 10 -1 ~
+- 390
+: 413 5 -6 The 
+: 419 2 -6 win
+: 423 2 -6 ter's 
+: 429 6 -6 chill 
+: 443 3 -3 warms
+: 446 2 -1 ~ 
+: 452 3 -3 the 
+: 456 4 -3 em
+: 461 7 -6 bers
+- 468
+: 480 3 -1 of 
+: 484 3 -3 their 
+: 489 6 -3 once 
+: 498 4 -1 burn
+: 503 3 -2 ing 
+* 508 7 -1 flame
+* 515 4 -2 ~
+- 519
+: 546 3 -1 Give 
+: 550 3 -3 me 
+: 556 5 -1 your 
+: 563 5 -1 love
+- 568
+: 575 3 -3 Let 
+: 580 4 -3 me 
+: 586 2 -3 in 
+: 589 3 -2 your 
+: 596 8 -6 song
+- 604
+: 612 3 -7 Give 
+: 616 2 -6 me 
+: 619 4 -6 that 
+: 627 3 -5 fi
+: 632 2 -3 re 
+: 636 3 -3 that 
+: 641 3 -3 you 
+: 647 6 -6 need, 
+: 656 2 -6 a 
+: 658 5 -3 ho
+: 664 5 -1 me
+- 669
+: 680 3 -1 Give 
+: 684 2 -1 me 
+: 687 2 -1 your 
+: 691 7 -1 love 
+: 704 2 -3 let 
+: 707 2 -3 me 
+: 711 2 -3 in 
+: 716 4 -6 your 
+: 723 6 -10 song
+- 729
+: 806 3 -9 Think
+: 811 3 -6 ing 
+: 815 2 -6 of 
+: 818 2 -6 the 
+: 825 10 -1 days
+- 835
+: 839 3 -3 on 
+: 843 1 -3 a 
+: 846 3 -3 New 
+: 849 2 -6 Eng
+: 853 4 -8 land 
+: 860 7 -10 Shore
+- 867
+: 929 6 -6 Longing 
+: 936 2 -6 for 
+: 940 2 -6 a 
+: 949 10 -1 live
+- 959
+: 972 3 -3 on 
+: 976 1 -3 a 
+: 979 5 -6 low-
+: 986 6 -3 tide 
+: 995 8 -3 floor
+- 1003
+: 1050 7 -6 Our 
+: 1059 11 -6 capes 
+: 1075 3 -1 on 
+: 1080 4 -1 the 
+: 1085 4 -1 board
+: 1094 9 -3 walk 
+: 1106 9 -1 broke 
+- 1115
+: 1130 4 -3 So 
+: 1135 4 -3 I'm 
+: 1144 6 -1 told
+- 1150
+: 1178 6 -6 This 
+: 1186 1 -6 is 
+: 1190 4 -6 tem
+: 1195 5 -6 po
+: 1202 5 -1 ra
+: 1209 4 -3 ry
+- 1213
+: 1223 4 -3 All 
+: 1228 4 -3 the 
+* 1239 5 0 feel
+* 1245 6 -3 ings 
+* 1252 3 -3 are 
+* 1257 6 -3 so 
+* 1266 5 -3 bold
+* 1273 6 -1 ~
+- 1279
+: 1316 3 -1 Give 
+: 1321 3 -1 me 
+: 1325 4 -1 your 
+: 1330 7 -1 love
+- 1337
+: 1344 3 -3 Let 
+: 1348 3 -3 me 
+: 1352 3 -3 in 
+: 1356 3 -3 your 
+: 1366 8 -6 song
+- 1374
+: 1379 3 -13 Give 
+: 1384 3 -6 me 
+: 1388 4 -6 that 
+: 1395 4 -5 fire 
+: 1402 2 -6 that 
+: 1406 3 -6 you 
+: 1411 6 -3 need, 
+: 1423 2 -6 a 
+: 1427 4 -3 ho
+: 1432 5 -1 me
+- 1437
+: 1448 3 -1 Give 
+: 1452 2 -1 me 
+: 1455 4 -1 your 
+: 1460 5 -1 love
+- 1465
+: 1471 3 -3 Let 
+: 1475 3 -3 me 
+: 1479 2 -3 in 
+: 1485 3 -6 your 
+: 1490 9 -10 song
+- 1499
+: 1575 2 -1 Give 
+: 1579 3 -1 me 
+: 1583 3 -1 your 
+: 1588 5 -1 love
+- 1593
+: 1601 2 -3 Let 
+: 1604 3 -3 me 
+: 1608 2 -3 in 
+: 1611 3 -3 your 
+: 1619 9 -6 song
+- 1628
+: 1637 2 -6 Give 
+: 1640 2 -6 me 
+: 1643 5 -6 that 
+: 1654 4 -3 fire 
+: 1659 2 -3 that 
+: 1662 2 -3 you 
+: 1667 3 -3 ne
+: 1672 6 -6 ed, 
+: 1679 1 -6 a 
+: 1683 4 -3 ho
+: 1688 4 -1 me
+- 1692
+: 1704 3 -1 Give 
+: 1709 3 -1 me 
+: 1713 3 -1 your 
+: 1717 6 -1 love
+- 1723
+: 1727 3 -3 Let 
+: 1731 3 -3 me 
+: 1736 2 -4 in 
+: 1739 4 -6 your 
+: 1747 10 -10 song
+- 1757
+* 2341 3 -1 Give 
+* 2345 3 -1 me 
+* 2349 6 -1 your 
+* 2356 5 -1 love
+- 2361
+: 2368 3 -3 Let 
+: 2372 3 -3 me 
+: 2376 3 -3 in 
+: 2380 5 -1 your 
+: 2387 7 -6 song
+- 2394
+: 2403 4 -6 Give 
+: 2408 3 -6 me 
+: 2412 4 -6 that 
+: 2422 4 -3 fire 
+: 2427 3 -3 that 
+: 2431 3 -3 you 
+: 2435 3 -3 ne
+: 2438 4 -6 ed, 
+* 2447 3 -6 a 
+* 2452 3 -3 ho
+* 2456 3 -1 me
+- 2459
+: 2473 4 -1 Give 
+: 2478 2 -1 me 
+: 2481 4 -1 your 
+: 2486 5 -1 love
+- 2491
+: 2495 3 -3 Let 
+: 2499 3 -3 me 
+: 2503 3 -3 in 
+: 2509 7 -6 your 
+: 2518 8 -6 song
+- 2526
+: 2598 3 -1 Give 
+: 2602 3 -1 me 
+: 2606 3 -1 your 
+: 2611 6 -1 love
+- 2617
+: 2624 4 -3 Let 
+: 2629 3 -3 me 
+: 2633 2 -3 in 
+: 2637 3 -1 your 
+: 2642 7 -6 song
+- 2649
+: 2662 3 -6 Give 
+: 2666 3 -6 me 
+: 2670 5 -6 that 
+: 2676 6 -3 fire 
+: 2683 3 -3 that 
+: 2687 2 -3 you 
+: 2690 4 -3 ne
+: 2694 4 -6 ed, 
+* 2703 3 -6 a 
+* 2708 3 -3 ho
+* 2711 3 -1 me
+- 2714
+: 2730 3 -1 Give 
+: 2734 3 -1 me 
+: 2738 3 -1 your 
+: 2742 5 -1 love
+- 2747
+: 2750 3 -3 Let 
+: 2754 3 -3 me 
+: 2758 3 -3 in 
+: 2765 3 -6 your 
+: 2776 9 -6 song
+- 2785
+: 2856 2 -6 Give 
+: 2859 2 -6 me 
+: 2863 3 -6 your 
+: 2867 6 -6 love
+- 2873
+* 2881 3 -6 Let 
+* 2885 3 -6 me 
+* 2891 4 -3 in 
+* 2896 4 -3 your 
+* 2907 9 -6 song
+- 2916
+E
