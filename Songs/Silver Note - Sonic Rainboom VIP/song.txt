@@ -1,9 +1,9 @@
 ﻿#ENCODING:UTF8
 #TITLE:Sonic Rainboom VIP
 #ARTIST:Silver Note
-#MP3:audio.ogg
-#VOCALSAUDIO:C:/Users/andre/AppData/LocalLow/melodymania/Melody Mania/Generated/Songs/Silver Note - Sonic Rainboom VIP__b3ea9c9/vocals.ogg
-#INSTRUMENTALAUDIO:C:/Users/andre/AppData/LocalLow/melodymania/Melody Mania/Generated/Songs/Silver Note - Sonic Rainboom VIP__b3ea9c9/instrumental.ogg
+#MP3:Silver Note - Sonic Rainboom VIP.ogg
+#VOCALSAUDIO:vocals.ogg
+#INSTRUMENTALAUDIO:instrumental.ogg
 #BPM:240.37
 #GAP:8507
 #COVER:background.png

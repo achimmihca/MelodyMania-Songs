@@ -1,8 +1,9 @@
 #TITLE:On the run
 #ARTIST:Joshua Morin
-#EDITION:Creative Commons
 #LANGUAGE:English
-#MP3:audio.ogg
+#MP3:Joshua Morin - On the run.ogg
+#VOCALSAUDIO:vocals.ogg
+#INSTRUMENTALAUDIO:instrumental.ogg
 #COVER:cover.jpg
 #BACKGROUND:background.jpg
 #BPM:297,5
